@@ -1,0 +1,6 @@
+/Library/Frameworks/Python.framework/Versions/3.9/bin/python3.9 /Users/Stefano/Documents/GitHub/fairdice/fairdice.py
+The best probabilities p1...p6 found for one dice are: (0.2439, 0.1375, 0.11859999999999998, 0.11859999999999998, 0.1375, 0.2439), sumcheck = 1.0,
+yielding these probabilities q2...q12 for two dice: (0.059487210000000006, 0.06707250000000001, 0.07675933, 0.09046807999999999, 0.11375346, 0.18491884000000003, 0.11375346, 0.09046807999999999, 0.07675933, 0.06707250000000001, 0.059487210000000006), sumcheck = 1.0;
+the 2-dice probabilities have log variance = -2.3430108410041712.
+
+Process finished with exit code 0
