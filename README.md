@@ -11,3 +11,7 @@ By evaluating the loss function over a uniform grid of points within the domain,
 - x = 0.244, y = 0.138, yielding:
 - [p1, p2, p3, p4, p5, p6] = [0.244, 0.138, 0.118, 0.118, 0.138, 0.244], in turn yielding:
 - [q2, q3, ... q12] = [0.059, 0.067, 0.077, 0.09, 0.114, 0.185, 0.114, 0.09, 0.077, 0.067, 0.059]
+
+Graphically:
+
+![figure illustrating the optimal solution](https://github.com/stefperf/fairdice/blob/main/figure.png)
